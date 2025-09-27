@@ -1,8 +1,6 @@
 # ArouteServerPSIX
 
----
-
-## 2. Component Descriptions
+## Component Descriptions
 
 | File/Folder | Purpose |
 | :--- | :--- |
